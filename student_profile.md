@@ -1,22 +1,22 @@
 # Student Profile
 
 ## Basic Information
-- **Name:** [Your full name]
-- **Username:** [Your GitHub username]
-- **Email:** [Your school email]
+- **Name:** Kyle Truong
+- **Username:** Kai55-design
+- **Email:** 354167586@educ.dpcdsb.org 
 
 ## About Me
-- **What do you want to study in the future:** [type here]
-- **Year:** [9/10/11/12]
-- **Interests:** [What are you interested in learning?]
+- **What do you want to study in the future:** business 
+- **Year:** 2/6/26 
+- **Interests:** 
 
 ## Experience
-- **Programming Languages I've Used:** [List any, or write "None yet!"]
-- **Why I'm Taking This Course:** [Your reason]
+- **Programming Languages I've Used:** None Yet
+- **Why I'm Taking This Course:** Credit
 
 ## Goals
-- **What I Want to Learn:** [What do you hope to get from this class?]
-- **Career Interests:** [What field are you interested in?]
+- **What I Want to Learn:** Hoping to get 85+
+- **Career Interests:** Business Accounting
 
 ## Fun Fact
-[Share something interesting about yourself!]
+I love to play volleyball outside of school and I hope to improve in that sport!
